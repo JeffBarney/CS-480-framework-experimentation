@@ -1,0 +1,45 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+angular/angular-tour-of-heroes/tmp
+angular/angular-tour-of-heroes/out-tsc
+# Only exists if Bazel was run
+angular/angular-tour-of-heroes/bazel-out
+
+# dependencies
+angular/angular-tour-of-heroes/node_modules
+
+# profiling files
+angular/angular-tour-of-heroes/chrome-profiler-events*.json
+angular/angular-tour-of-heroes/speed-measure-plugin*.json
+
+# IDEs and editors
+angular/angular-tour-of-heroes/.idea
+angular/angular-tour-of-heroes/.project
+angular/angular-tour-of-heroes/.classpath
+angular/angular-tour-of-heroes/.c9/
+angular/angular-tour-of-heroes/*.launch
+angular/angular-tour-of-heroes/.settings/
+angular/angular-tour-of-heroes/*.sublime-workspace
+
+# IDE - VSCode
+angular/angular-tour-of-heroes/.vscode/*
+angular/angular-tour-of-heroes/!.vscode/settings.json
+angular/angular-tour-of-heroes/!.vscode/tasks.json
+angular/angular-tour-of-heroes/!.vscode/launch.json
+angular/angular-tour-of-heroes/!.vscode/extensions.json
+angular/angular-tour-of-heroes/.history/*
+
+# misc
+angular/angular-tour-of-heroes/.sass-cache
+angular/angular-tour-of-heroes/connect.lock
+angular/angular-tour-of-heroes/coverage
+angular/angular-tour-of-heroes/libpeerconnection.log
+angular/angular-tour-of-heroes/npm-debug.log
+angular/angular-tour-of-heroes/yarn-error.log
+angular/angular-tour-of-heroes/testem.log
+angular/angular-tour-of-heroes/typings
+
+# System Files
+angular/angular-tour-of-heroes/.DS_Store
+angular/angular-tour-of-heroes/Thumbs.db
