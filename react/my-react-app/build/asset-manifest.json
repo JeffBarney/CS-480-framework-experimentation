@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/~bjeffer/react/static/css/main.b792a898.chunk.css",
+    "main.js": "/~bjeffer/react/static/js/main.036a31e8.chunk.js",
+    "main.js.map": "/~bjeffer/react/static/js/main.036a31e8.chunk.js.map",
+    "runtime-main.js": "/~bjeffer/react/static/js/runtime-main.2e53ef58.js",
+    "runtime-main.js.map": "/~bjeffer/react/static/js/runtime-main.2e53ef58.js.map",
+    "static/js/2.c419dce7.chunk.js": "/~bjeffer/react/static/js/2.c419dce7.chunk.js",
+    "static/js/2.c419dce7.chunk.js.map": "/~bjeffer/react/static/js/2.c419dce7.chunk.js.map",
+    "index.html": "/~bjeffer/react/index.html",
+    "precache-manifest.ffb313412de76ef88d0796ed8caea939.js": "/~bjeffer/react/precache-manifest.ffb313412de76ef88d0796ed8caea939.js",
+    "service-worker.js": "/~bjeffer/react/service-worker.js",
+    "static/css/main.b792a898.chunk.css.map": "/~bjeffer/react/static/css/main.b792a898.chunk.css.map",
+    "static/js/2.c419dce7.chunk.js.LICENSE.txt": "/~bjeffer/react/static/js/2.c419dce7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e53ef58.js",
+    "static/js/2.c419dce7.chunk.js",
+    "static/css/main.b792a898.chunk.css",
+    "static/js/main.036a31e8.chunk.js"
+  ]
+}
