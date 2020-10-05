@@ -55,6 +55,7 @@ class Game extends React.Component {
           <ol>{/* TODO */}</ol>
         </div>
         <a target="_blank" href="https://students.cs.byu.edu/~bjeffer/">Back to Angular app</a>
+        <a target="_blank" href="https://students.cs.byu.edu/~bjeffer/vue">Back to Vue app</a>
       </div>
     );
   }
